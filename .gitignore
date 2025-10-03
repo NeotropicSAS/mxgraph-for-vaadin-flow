@@ -1,7 +1,7 @@
-/mx-graph-flow/target/
-/mx-graph-flow/frontend/generated/
-/mx-graph-flow-demo/target/
-/mx-graph-flow-demo/frontend/generated/
+/mx-graph-for-vaadin-flow/target/
+/mx-graph-for-vaadin-flow/frontend/generated/
+/mx-graph-for-vaadin-flow-demo/target/
+/mx-graph-for-vaadin-flow-demo/frontend/generated/
 
 .idea/
 .vscode/
