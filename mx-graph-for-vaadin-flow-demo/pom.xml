@@ -77,11 +77,10 @@
             <scope>test</scope>
         </dependency>
         <dependency>
-            <groupId>com.neotropic.flow.component</groupId>
+            <groupId>org.vaadin.addons.mxgraph</groupId>
             <artifactId>mx-graph-for-vaadin-flow</artifactId>
-            <version>0.1.0</version>
-            <type>jar</type>
-        </dependency> 
+            <version>1.0.0</version>
+        </dependency>
         <!-- Include JUnit 4 support for TestBench and others -->
         <dependency>
             <groupId>org.junit.vintage</groupId>
