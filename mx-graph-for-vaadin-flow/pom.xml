@@ -3,7 +3,7 @@
 
     <groupId>com.neotropic.flow.component</groupId>
     <artifactId>mx-graph-for-vaadin-flow</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
     <name>Mx Graph Component for Vaadin Flow</name>
     <description>Vaadin Flow wrapper for the polymer component of the library Mx Graph</description>
 
