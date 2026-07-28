@@ -36,7 +36,7 @@
     "strip-css-comments": "5.0.0",
     "transform-ast": "2.4.4",
     "typescript": "5.7.3",
-    "vite": "6.0.6",
+    "vite": "6.4.3",
     "vite-plugin-checker": "0.8.0",
     "workbox-build": "7.3.0",
     "workbox-core": "7.3.0",
@@ -47,19 +47,19 @@
     "@vaadin/polymer-legacy-adapter": "$@vaadin/polymer-legacy-adapter",
     "@vaadin/vaadin-development-mode-detector": "$@vaadin/vaadin-development-mode-detector",
     "@vaadin/vaadin-usage-statistics": "$@vaadin/vaadin-usage-statistics",
-    "@vaadin/react-components": "$@vaadin/react-components",
-    "@vaadin/react-components-pro": "$@vaadin/react-components-pro",
     "@vaadin/common-frontend": "$@vaadin/common-frontend",
-    "react-dom": "$react-dom",
     "construct-style-sheets-polyfill": "$construct-style-sheets-polyfill",
-    "react-router-dom": "$react-router-dom",
     "lit": "$lit",
-    "@polymer/polymer": "$@polymer/polymer",
-    "react": "$react",
     "date-fns": "$date-fns",
     "proj4": "$proj4",
-    "@vaadin/vaadin-themable-mixin": "$@vaadin/vaadin-themable-mixin",
     "@vaadin/vaadin-lumo-styles": "$@vaadin/vaadin-lumo-styles",
+    "@vaadin/react-components": "$@vaadin/react-components",
+    "@vaadin/react-components-pro": "$@vaadin/react-components-pro",
+    "react-dom": "$react-dom",
+    "react-router-dom": "$react-router-dom",
+    "@polymer/polymer": "$@polymer/polymer",
+    "react": "$react",
+    "@vaadin/vaadin-themable-mixin": "$@vaadin/vaadin-themable-mixin",
     "@vaadin/vaadin-material-styles": "$@vaadin/vaadin-material-styles"
   },
   "type": "module",
@@ -93,7 +93,7 @@
       "@types/react-dom": "18.3.5",
       "@vitejs/plugin-react": "4.3.4",
       "async": "3.2.6",
-      "glob": "10.5.0",
+      "glob": "10.4.5",
       "rollup-plugin-brotli": "3.1.0",
       "rollup-plugin-visualizer": "5.13.1",
       "strip-css-comments": "5.0.0",
@@ -105,6 +105,6 @@
       "workbox-core": "7.3.0",
       "workbox-precaching": "7.3.0"
     },
-    "hash": "8ae7a9ef6ac6ffb8dc9dba5a51713ebc6107a7bcabfc253e65ac750d9c8e3e57"
+    "hash": "87df15eecd68b413b504bedb6706599a8d6ff50f525f2f55220e1904cadfdcb2"
   }
 }
